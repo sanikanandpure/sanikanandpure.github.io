@@ -21,7 +21,7 @@ repository               : "sanikanandpure/sanikanandpure.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "github_pfp_2.png"
+  avatar           : "images/github_pfp_2.png"
   name             : "Sanika Nandpure"
   pronouns         : # example: "she/her"  
   bio              : "ML/Computer Vision, Data Visualization, Full Stack Development"
