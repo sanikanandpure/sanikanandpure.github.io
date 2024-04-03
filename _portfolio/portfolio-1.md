@@ -1,6 +1,6 @@
 ---
 title: "3D Visualization of Local Universe"
-excerpt: "Technologies used: Pandas, Plotly, Matplotlib, Astropy<br/><img src='/images/500x300.png'>"
+excerpt: "Technologies used: Pandas, Plotly, Matplotlib, Astropy<br/><video src="files/my_plot_3d.webm"></video>
 collection: portfolio
 ---
 
