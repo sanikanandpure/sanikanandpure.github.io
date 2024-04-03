@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 Technologies used: Pandas, Plotly, Matplotlib, Astropy
+View interactively: https://sanikanandpure.github.io/3D_Visualization_of_Local_Universe/
