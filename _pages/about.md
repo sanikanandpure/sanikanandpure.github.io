@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "\U+1F44B Hello, I'm Sanika."
+title: "👋 Hello, I'm Sanika."
 author_profile: true
 redirect_from: 
   - /about/
