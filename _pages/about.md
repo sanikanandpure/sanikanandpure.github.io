@@ -1,10 +1,15 @@
 ---
 permalink: /
-title: "Hello, I'm Sanika."
+title: "\U+1F44B Hello, I'm Sanika."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a first-year Computer Science student at the University of Texas at Austin. My research interests lie at the intersection of AI and robotics. My hope is that one day, we will have fully autonomous robots that revolutionize industries such as healthcare, manufacturing, and emergency response. Please explore my work using the navigation bars above.
+I am a first-year Computer Science student at the University of Texas at Austin. I am currently working on ML/Data Science research advised by Dr. Shyamal Mitra. My work involves classifying and understanding the distribution of galaxies and other cosmic bodies using machine learning, data science, and computational geometry. I am also an ML Engineer on the UT RAS IGVC team, where I create computer vision models for lane and obstacle detection, enabling a robot to navigate a complex obstacle course autonomously. Previously, I was involved in energy harvesting research at COEP alongside Dr. Padmakar Kelkar.
+
+My hope is that one day, we will have fully autonomous robots that revolutionize industries including healthcare, manufacturing, and emergency response. Please explore my work using the navigation bars above.
+
+
+
