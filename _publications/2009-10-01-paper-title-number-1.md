@@ -9,8 +9,8 @@ citation: 'Nandpure, S., & Kelkar, P. (2023). A Piezoelectric Energy Harvester f
 ---
 
 <h2>Awards</h2><br>
-<ol>
+<ul>
   <li>1st Place Engineering @ Dallas Regional Science and Engineering Fair (DRSEF)</li>
   <li>3rd Place Engineering @ Texas Junior Academy of Sciences (TJAS)</li>
-</ol>
+</ul>
 
