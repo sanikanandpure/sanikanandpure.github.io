@@ -5,7 +5,7 @@ permalink: /publication/a-piezooelectric-energy-harvester-for-mechanical-keyboar
 date: 2023-05-31
 venue: 'Journal of Student Research'
 paperurl: 'https://doi.org/10.47611/jsrhs.v12i2.4039'
-citation: 'Nandpure, S., & Kelkar, P. (2023). A Piezoelectric Energy Harvester for Mechanical Keyboards to Enable Self-Powered Computers. Journal of Student Research, 12(2). https://doi.org/10.47611/jsrhs.v12i2.4039'
+citation:
 ---
 
 <h3>Awards</h3>
@@ -13,5 +13,6 @@ citation: 'Nandpure, S., & Kelkar, P. (2023). A Piezoelectric Energy Harvester f
   <li>1st Place Engineering @ Dallas Regional Science and Engineering Fair (DRSEF)</li>
   <li>3rd Place Engineering @ Texas Junior Academy of Sciences (TJAS)</li>
 </ul>
+<h6>Recommended citation: Nandpure, S., & Kelkar, P. (2023). A Piezoelectric Energy Harvester for Mechanical Keyboards to Enable Self-Powered Computers. Journal of Student Research, 12(2). https://doi.org/10.47611/jsrhs.v12i2.4039</h6>
 
 
