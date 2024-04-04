@@ -14,5 +14,6 @@ citation:
   <li>3rd Place Engineering @ Texas Junior Academy of Sciences (TJAS)</li>
 </ul>
 
-Recommended citation: Nandpure, S., & Kelkar, P. (2023). A Piezoelectric Energy Harvester for Mechanical Keyboards to Enable Self-Powered Computers. Journal of Student Research, 12(2). https://doi.org/10.47611/jsrhs.v12i2.4039.
+<h5>Recommended citation: Nandpure, S., & Kelkar, P. (2023). A Piezoelectric Energy Harvester for Mechanical Keyboards to Enable Self-Powered Computers. Journal of Student Research, 12(2). https://doi.org/10.47611/jsrhs.v12i2.4039.
+</h5>
 
