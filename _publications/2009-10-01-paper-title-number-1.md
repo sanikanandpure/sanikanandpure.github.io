@@ -7,7 +7,6 @@ venue: 'Journal of Student Research'
 paperurl: 'https://doi.org/10.47611/jsrhs.v12i2.4039'
 citation:
 ---
-
 <h3>Awards</h3>
 <ul>
   <li>1st Place Engineering @ Dallas Regional Science and Engineering Fair (DRSEF)</li>
