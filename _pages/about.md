@@ -9,9 +9,9 @@ redirect_from:
 
 I am a second-year Computer Science student at the University of Texas at Austin. 
 
-I am currently working on ML/Data Science research advised by Dr. Shyamal Mitra. My work involves developing deep neural network architectures for the deconvolution of astronomical images. I am also an ML Engineer on the UT RAS IGVC team, where I create computer vision models for lane and obstacle detection, enabling a robot to navigate a complex obstacle course autonomously. Previously, I was involved in energy harvesting research at COEP alongside Dr. Padmakar Kelkar.
+I am currently a Research Fellow in the UT Department of Computer Science, advised by Dr. Shyamal Mitra. My research involves developing deep neural networks for the deconvolution of astronomical images. I am also an ML Engineer on the UT RAS IGVC team, where I create computer vision models for lane and obstacle detection, enabling a robot to navigate a complex obstacle course autonomously. I am interested in ML/Computer Vision and its applications in astronomy and robotics.
 
-I'm deeply passionate about ML/Computer Vision and its applications in astronomy and robotics. 
+In addition to my CS interests, I represent UT Austin as a 3rd-degree black belt on the Taekwondo team. 
 
 Please explore my work above, and feel free to reach out! :)
 
